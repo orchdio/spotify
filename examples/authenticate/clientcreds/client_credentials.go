@@ -12,7 +12,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/orchdio/spotify/v2"
+	"github.com/orchdio/spotify/v3"
 	"golang.org/x/oauth2/clientcredentials"
 )
 

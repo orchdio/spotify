@@ -13,7 +13,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/orchdio/spotify/v2"
+	"github.com/orchdio/spotify/v3"
 )
 
 // redirectURI is the OAuth redirect URI for the application.

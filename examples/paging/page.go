@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/orchdio/spotify/v2"
-	spotifyauth "github.com/orchdio/spotify/v2/auth"
+	"github.com/orchdio/spotify/v3"
+	spotifyauth "github.com/orchdio/spotify/v3/auth"
 	"golang.org/x/oauth2/clientcredentials"
 )
 
