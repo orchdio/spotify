@@ -6,11 +6,11 @@ import (
 	"log"
 	"os"
 
-	spotifyauth "github.com/zmb3/spotify/v2/auth"
+	spotifyauth "github.com/orchdio/spotify/v2/auth"
 
 	"golang.org/x/oauth2/clientcredentials"
 
-	"github.com/zmb3/spotify/v2"
+	"github.com/orchdio/spotify/v2"
 )
 
 func main() {
